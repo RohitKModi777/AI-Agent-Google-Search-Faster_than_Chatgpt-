@@ -49,13 +49,13 @@ SERPER_API_KEY=your_serper_google_search_key_here
 
 ### 6. Run the Application
 ```bash
-streamlit run 3_qna_bot.py
+streamlit run ai_agent_google_search.py
 ```
 
 ## 🌐 Deployment Logic 🚀
 
 This app is ready for deployment on **Streamlit Cloud** or **Vercel**.
-- **Streamlit Cloud:** Just link this GitHub repository, select `3_qna_bot.py` as the main file, and add your `.env` keys to the **Secrets manager (Settings > Secrets)**.
+- **Streamlit Cloud:** Just link this GitHub repository, select `ai_agent_google_search.py` as the main file, and add your `.env` keys to the **Secrets manager (Settings > Secrets)**.
 
 ## 📚 Educational Notes (Student Perspective) 🎓
 The code has been commented with 'student-style' notes to help you understand:
