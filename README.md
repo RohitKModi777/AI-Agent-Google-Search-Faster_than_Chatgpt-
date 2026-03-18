@@ -55,4 +55,3 @@ This application is ready for deployment on **Streamlit Cloud**:
 - Add your `.env` keys to **Settings > Secrets** in the Streamlit Cloud dashboard.
 
 ---
-Developed by [RohitKModi777](https://github.com/RohitKModi777) 💡
