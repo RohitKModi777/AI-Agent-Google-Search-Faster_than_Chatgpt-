@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-google-genai
+langchain-anthropic
+langchain-ollama
+langchain-groq
+streamlit
+langchain-community
+langgraph
+google-search-results
